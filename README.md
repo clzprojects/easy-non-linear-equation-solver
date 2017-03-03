@@ -1,4 +1,9 @@
-# easy-non-linear-equation-solver
+# Easy Non Linear Equation Solver
+
+- How to execute main class on this project:
+``mvn clean verify -Prun``
+
+- Output example like below
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                                
