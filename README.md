@@ -32,7 +32,7 @@ value2=5
 ....................................................
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-* Solution By Secant Method		          *
+* Solution By Secant Method		              *
 * Non Linear Eq is: f(x) = x.sin(x) - 1       *
 * @Compiled By: Bhuwan Prasad Upadhyay        *
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
